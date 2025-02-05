@@ -1,4 +1,9 @@
-## Hi there 👋
+Welcome! 
+
+Here I share random cool things I built with Claude (3.5 sonnet 🐐🐐)
+
+I'm not that good but trying to get better—feedback is always appreciated  
+
 
 <!--
 **PinkyPenguin/PinkyPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
