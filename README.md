@@ -1,4 +1,4 @@
-Welcome! I share random cool things I built with Claude (3.5 sonnet 🐐🐐)
+Welcome! I share random cool things I built with Claude (3.5 sonnet is the GOAT)
 
 I'm not that good but trying to get better—feedback is always appreciated  
 
